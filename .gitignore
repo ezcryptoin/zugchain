@@ -10,3 +10,4 @@ session/
 analysis.txt
 device_fingerprints.json
 autoreff/
+echo -e "wallets.json\nnode_modules/\n*.log\n.env" > .gitignore
