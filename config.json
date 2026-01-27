@@ -1,3 +1,4 @@
+cat > config.json << 'EOF'
 {
   "baseUrl": "https://testnet.zugchain.org",
   "rpcUrl": "https://rpc.zugchain.org",
@@ -42,3 +43,4 @@
     "dailyLimit": 1000
   }
 }
+EOF
