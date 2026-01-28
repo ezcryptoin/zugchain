@@ -807,7 +807,7 @@ class ZugChainBot {
 
     printSummaryTable() {
         console.log('\n' + chalk.bold.cyan('================================================================================'));
-        console.log(chalk.bold.cyan(`                          🤖 SIPAL ZUGCHAIN V2.0 🤖`));
+        console.log(chalk.bold.cyan(`                          🤖 EZCRYPTOIN ZUGCHAIN V2.0 🤖`));
         console.log(chalk.bold.cyan('================================================================================'));
         const table = new Table({
             head: ['Account', 'Points', 'Status', 'Daily', 'Next Run'],
