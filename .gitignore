@@ -1,3 +1,12 @@
+# Private keys & secrets
+accounts.json
+generated_accounts.json
+secrets.json
+.env
+
+# Runtime data
+device_fingerprints.json
+tokens.json
 node_modules/
 .env
 accounts.json
